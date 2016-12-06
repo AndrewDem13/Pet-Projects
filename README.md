@@ -6,4 +6,5 @@ Here's some projects I made studying Java.
 - Algorithms practice;
 - Studying Sockets;
 - Swing practice;
+
 ... to be continued
