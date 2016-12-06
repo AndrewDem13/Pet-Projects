@@ -4,3 +4,5 @@
 - знакомство с Guava;
 - знакомство с Apache Commons Collections;
 - знакомство с JUnit.
+
+Задание из курса JavaRush
