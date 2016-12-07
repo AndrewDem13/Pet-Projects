@@ -1,4 +1,5 @@
 # Симулятор банкомата
+(Сентябрь 2016)
 
 Взаимодействие происходит через консоль. В зависимости от контекста, символы [0-9] имитируют цифровую клавиатуру банкомата для ввода данных, [1-4] – кнопки взаимодействия с интерфейсом банкомата, клавиша [0] – отмена и экстренный выход в любое время.
 
@@ -25,6 +26,7 @@
 =================================================================================
 
 # ATM Simulator
+(September 2016)
 
 The interaction occurs through the console. Depending on the context, the characters [0-9] simulate digital ATM keyboard for data input, [1-4] - the interaction with the ATM interface buttons, key [0] - cancel the emergency exit at any time.
 
