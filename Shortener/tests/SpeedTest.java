@@ -1,6 +1,5 @@
 package com.javarush.test.level33.lesson15.big01.tests;
 
-
 import com.javarush.test.level33.lesson15.big01.Helper;
 import com.javarush.test.level33.lesson15.big01.Shortener;
 import com.javarush.test.level33.lesson15.big01.strategies.HashBiMapStorageStrategy;
